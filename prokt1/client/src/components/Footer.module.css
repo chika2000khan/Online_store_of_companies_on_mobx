@@ -1,0 +1,12 @@
+.footer {
+    width: 100%;
+    height: 200px;
+    background-image: none;
+    box-sizing: border-box;
+}
+
+.footer h3{
+    margin-top: 770px;
+    color: white;
+    font-size: 15px;
+}

@@ -1,0 +1,35 @@
+.dvp {
+    width: 1920px;
+    height: 100%;
+    background-color: rgb(245, 245, 245);
+    background-image: none;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: center;
+}
+
+.basktpg {
+    background-image: none;
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+}
+
+.basktpg h3 {
+    margin-top: 80px;
+}
+
+.dvp button {
+    width: 250px;
+    height: 40px;
+    background-color: #31e9e9;
+    margin-top: 50px;
+    font-size: 22px;
+}
+
+.description {
+    font-size: 20px;
+}

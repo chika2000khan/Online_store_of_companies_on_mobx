@@ -1,0 +1,40 @@
+.Shop {
+    width: 1920px;
+    height: 100%;
+    background-color: rgb(245, 245, 245);
+    background-image: none;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: center;
+}
+
+.pagg {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+    letter-spacing: 154px;
+}
+
+.paggli {
+    display: inline;
+}
+
+.paggli:hover{
+    color: #30a7d2;
+    cursor: pointer;
+}
+
+.pagglinext {
+    letter-spacing: 1px;
+}
+
+.pagglinext:hover{
+    color: #30a7d2;
+    cursor: pointer;
+}
+
+

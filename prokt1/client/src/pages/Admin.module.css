@@ -1,0 +1,12 @@
+.adminpage {
+    width: 1920px;
+height: 100%;
+background-color: rgb(245, 245, 245);
+background-image: none;
+border-radius: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 40px;
+padding-right: 40px;
+justify-content: center;
+}
